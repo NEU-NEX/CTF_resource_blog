@@ -8,5 +8,5 @@
 - sqlite injection
   - [【技术分享】基于SQLite数据库的Web应用程序注入指南
 ](https://www.anquanke.com/post/id/85552)
-  - (recurrent impossible)xman_2019_first_parse_final--profile
+  - xman_2019_first_parse_final--profile
 
