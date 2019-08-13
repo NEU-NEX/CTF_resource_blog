@@ -25,3 +25,8 @@
 # code_audit
 
 - De1ctf2019--ssrfme 源代码在wp里面有
+- [rctf2019 calcalcalc](https://github.com/CTFTraining/rctf_2019_calcalcalc)
+
+# XSS 
+
+- [csp参数介绍-腾讯云](https://cloud.tencent.com/developer/chapter/13541)
