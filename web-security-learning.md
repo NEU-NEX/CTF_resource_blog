@@ -5,7 +5,15 @@
 - [LoRexxar 's blog](https://lorexxar.cn/)
 - [xuanxuanblingbling 's blog](https://xuanxuanblingbling.github.io/)
 - [先知社区](https://xz.aliyun.com/)
+- [知道创宇](https://blog.knownsec.com/)
+- [phithon 的公开漏洞](https://bugs.leavesongs.com/)
 
+## 工具
+- [postman](https://learning.getpostman.com/docs/postman/sending_api_requests/generate_code_snippets/)
+
+
+## 开发
+[web开发一条龙](https://github.com/wx-chevalier/Web-Series)
 
 # sql injection
 
@@ -20,7 +28,7 @@
 - sqlmap usage
   - [SQLMap使用](https://joner11234.github.io/2019/04/08/SQLMap%E4%BD%BF%E7%94%A8/)
 
-
+[xman第一阶段sqlitecookie注入之后没做出来的文件上传](https://github.com/mdsnins/ctf-writeups/blob/master/2019/Insomnihack%202019/l33t-hoster/l33t-hoster.md)
 
 # code_audit
 
@@ -30,3 +38,8 @@
 # XSS 
 
 - [csp参数介绍-腾讯云](https://cloud.tencent.com/developer/chapter/13541)
+- [xss 学习](https://wizardforcel.gitbooks.io/xss-naxienian/content/)
+
+# 拟态防御
+
+[计算器和拟态防御](https://xz.aliyun.com/t/5953)
