@@ -15,3 +15,7 @@
 # rctf2019
 
 [web calcalcalc](http://blog.leanote.com/post/xp0int/%5BWeb%5D-4)
+
+# ichunqiu 中关村线上赛
+
+[nex的wp](https://shimo.im/docs/xdrxwHXxpjWyWdjX/)
