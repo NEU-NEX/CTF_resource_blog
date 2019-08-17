@@ -1,4 +1,6 @@
 
+[一个收集wp的网址](http://baimaozi.top/2018/11/12/collect-wp/)
+
 # De1ctf 2019
 [官方](https://github.com/De1ta-team/De1CTF2019)
 
