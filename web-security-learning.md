@@ -15,6 +15,10 @@
 ## 开发
 [web开发一条龙](https://github.com/wx-chevalier/Web-Series)
 
+## AWD
+[不死马 反不死马](https://github.com/admintony/Prepare-for-AWD)
+[攻击框架](https://github.com/Ares-X/AWD-Predator-Framework)
+
 # sql injection
 
 - sql nomal injection and basic knowledge
@@ -43,3 +47,13 @@
 # 拟态防御
 
 [计算器和拟态防御](https://xz.aliyun.com/t/5953)
+
+# SSTI
+
+[flask/jinjia注入中的一些绕过姿势](https://p0sec.net/index.php/archives/120/)
+
+[flask/jinjia2 沙箱逃逸](https://www.kingkk.com/2018/06/Flask-Jinja2-SSTI-python-%E6%B2%99%E7%AE%B1%E9%80%83%E9%80%B8/)
+
+[flask 模板注入中括号被过滤的例题](https://medium.com/bugbountywriteup/tokyowesterns-ctf-4th-2018-writeup-part-3-1c8510dfad3f)
+
+[还是这道例题](https://eviloh.github.io/2018/09/03/TokyoWesterns-2018-shrine-writeup/)
