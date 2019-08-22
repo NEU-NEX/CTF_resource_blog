@@ -10,8 +10,6 @@
 
 [天枢](https://xz.aliyun.com/t/5921)
 
-# xman2019_first_parse_final
-[ch4ser's zone](https://ch4ser-go.github.io)
 
 
 # rctf2019

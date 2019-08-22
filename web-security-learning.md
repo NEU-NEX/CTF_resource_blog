@@ -57,3 +57,7 @@
 [flask 模板注入中括号被过滤的例题](https://medium.com/bugbountywriteup/tokyowesterns-ctf-4th-2018-writeup-part-3-1c8510dfad3f)
 
 [还是这道例题](https://eviloh.github.io/2018/09/03/TokyoWesterns-2018-shrine-writeup/)
+
+# 文件上传
+
+[文件上传总结](https://www.xmsec.cc/file-upload/#user.ini-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
