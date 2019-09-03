@@ -42,6 +42,8 @@
 # XSS 
 
 - [csp参数介绍-腾讯云](https://cloud.tencent.com/developer/chapter/13541)
+- [csp总结和ctf](https://mp.weixin.qq.com/s?__biz=MzU1MzE3Njg2Mw==&mid=2247484861&idx=1&sn=8edcacdf05a4598a5515ecff21a6b0f4&chksm=fbf79fcdcc8016dbdca8a82b305e006f9ceb6c418f21fc43c5546257285a741356f8c0cb6c3d&mpshare=1&scene=23&srcid=0309dM3wJyoBacRyDSYQhg2X#rd)
+- [关于csp挺全的介绍](https://juejin.im/post/5aa115466fb9a028e11f8859)
 - [xss 学习](https://wizardforcel.gitbooks.io/xss-naxienian/content/)
 
 # 拟态防御
@@ -61,3 +63,12 @@
 # 文件上传
 
 [文件上传总结](https://www.xmsec.cc/file-upload/#user.ini-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
+
+# 反序列化漏洞
+
+[利用phar扩展反序列化漏洞攻击面](https://paper.seebug.org/680/)
+ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar反序列化的漏洞.
+
+# 反序列化
+
+[php反序列化漏洞总结](http://www.91ri.org/15925.html)
