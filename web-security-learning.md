@@ -68,7 +68,6 @@
 
 [利用phar扩展反序列化漏洞攻击面](https://paper.seebug.org/680/)
 ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar反序列化的漏洞.
-
-# 反序列化
-
+化
+[session 反序列化](https://blog.spoock.com/2016/10/16/php-serialize-problem/)
 [php反序列化漏洞总结](http://www.91ri.org/15925.html)
