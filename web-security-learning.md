@@ -28,6 +28,8 @@
   - [【技术分享】基于SQLite数据库的Web应用程序注入指南
 ](https://www.anquanke.com/post/id/85552)
   - xman_2019_first_parse_final--profile
+- 奇技淫巧
+  - [updatexml injection without concat](https://xz.aliyun.com/t/2160)
 
 - sqlmap usage
   - [SQLMap使用](https://joner11234.github.io/2019/04/08/SQLMap%E4%BD%BF%E7%94%A8/)
