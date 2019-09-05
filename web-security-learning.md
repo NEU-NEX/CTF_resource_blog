@@ -42,11 +42,10 @@
 
 # XSS 
 
-- [csp参数介绍-腾讯云](https://cloud.tencent.com/developer/chapter/13541)
 - [csp总结和ctf](https://mp.weixin.qq.com/s?__biz=MzU1MzE3Njg2Mw==&mid=2247484861&idx=1&sn=8edcacdf05a4598a5515ecff21a6b0f4&chksm=fbf79fcdcc8016dbdca8a82b305e006f9ceb6c418f21fc43c5546257285a741356f8c0cb6c3d&mpshare=1&scene=23&srcid=0309dM3wJyoBacRyDSYQhg2X#rd)
 - [关于csp挺全的介绍](https://juejin.im/post/5aa115466fb9a028e11f8859)
 - [xss 学习](https://wizardforcel.gitbooks.io/xss-naxienian/content/)
-- [利用svg的xss黑魔法](https://www.hackersb.cn/hacker/85.html)
+- [通过一道题目来学习缓存投毒和svg xss](https://www.smi1e.top/%e9%80%9a%e8%bf%87%e4%b8%80%e9%81%93%e9%a2%98%e4%ba%86%e8%a7%a3%e7%bc%93%e5%ad%98%e6%8a%95%e6%af%92%e5%92%8csvg-xss/)
 
 # 拟态防御
 
