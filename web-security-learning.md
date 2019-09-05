@@ -28,6 +28,8 @@
   - [【技术分享】基于SQLite数据库的Web应用程序注入指南
 ](https://www.anquanke.com/post/id/85552)
   - xman_2019_first_parse_final--profile
+- 奇技淫巧
+  - [updatexml injection without concat](https://xz.aliyun.com/t/2160)
 
 - sqlmap usage
   - [SQLMap使用](https://joner11234.github.io/2019/04/08/SQLMap%E4%BD%BF%E7%94%A8/)
@@ -71,5 +73,11 @@ ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar
 化
 
 [session 反序列化](https://blog.spoock.com/2016/10/16/php-serialize-problem/)
+<<<<<<< HEAD
 
 [php反序列化漏洞总结](http://www.91ri.org/15925.html)
+=======
+
+# 代码审计
+[PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
+>>>>>>> af91670bc8c1e19e6b41db09b0216c749f482590
