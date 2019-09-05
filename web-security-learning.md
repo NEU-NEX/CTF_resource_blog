@@ -73,11 +73,8 @@ ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar
 化
 
 [session 反序列化](https://blog.spoock.com/2016/10/16/php-serialize-problem/)
-<<<<<<< HEAD
 
 [php反序列化漏洞总结](http://www.91ri.org/15925.html)
-=======
 
 # 代码审计
 [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
->>>>>>> af91670bc8c1e19e6b41db09b0216c749f482590
