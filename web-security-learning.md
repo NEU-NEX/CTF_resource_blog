@@ -25,8 +25,7 @@
   - [sql注入技巧-sky](https://skysec.top/2017/07/19/sql%E6%B3%A8%E5%85%A5%E7%9A%84%E4%B8%80%E4%BA%9B%E6%8A%80%E5%B7%A7%E5%8E%9F%E7%90%86/#%E5%89%8D%E8%A8%80)
   - 
 - sqlite injection
-  - [【技术分享】基于SQLite数据库的Web应用程序注入指南
-](https://www.anquanke.com/post/id/85552)
+  - [【技术分享】基于SQLite数据库的Web应用程序注入指南](https://www.anquanke.com/post/id/85552)
   - xman_2019_first_parse_final--profile
 - 奇技淫巧
   - [updatexml injection without concat](https://xz.aliyun.com/t/2160)
@@ -47,6 +46,7 @@
 - [csp总结和ctf](https://mp.weixin.qq.com/s?__biz=MzU1MzE3Njg2Mw==&mid=2247484861&idx=1&sn=8edcacdf05a4598a5515ecff21a6b0f4&chksm=fbf79fcdcc8016dbdca8a82b305e006f9ceb6c418f21fc43c5546257285a741356f8c0cb6c3d&mpshare=1&scene=23&srcid=0309dM3wJyoBacRyDSYQhg2X#rd)
 - [关于csp挺全的介绍](https://juejin.im/post/5aa115466fb9a028e11f8859)
 - [xss 学习](https://wizardforcel.gitbooks.io/xss-naxienian/content/)
+- [利用svg的xss黑魔法](https://www.hackersb.cn/hacker/85.html)
 
 # 拟态防御
 
