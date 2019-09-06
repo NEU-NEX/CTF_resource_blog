@@ -77,3 +77,7 @@ ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar
 
 # 代码审计
 [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
+
+# 缓存投毒
+[黑帽大会翻译文章第一部分](https://www.anquanke.com/post/id/156356)
+[黑帽大会翻译文章第二部分](https://www.anquanke.com/post/id/156551)
