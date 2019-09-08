@@ -71,6 +71,8 @@
 ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar反序列化的漏洞.
 化
 
+[phar反序列化和原生类序列化](https://xi4or0uji.github.io/2019/06/27/php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E7%94%B1%E6%B5%85%E5%88%B0%E6%B7%B1/#%E5%8E%9F%E7%94%9F%E7%B1%BB%E5%BA%8F%E5%88%97%E5%8C%96%E9%97%AE%E9%A2%98?tdsourcetag=s_pcqq_aiomsg)
+
 [session 反序列化](https://blog.spoock.com/2016/10/16/php-serialize-problem/)
 
 [php反序列化漏洞总结](http://www.91ri.org/15925.html)
