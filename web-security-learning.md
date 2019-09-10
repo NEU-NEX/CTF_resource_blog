@@ -61,6 +61,10 @@
 
 [还是这道例题](https://eviloh.github.io/2018/09/03/TokyoWesterns-2018-shrine-writeup/)
 
+[ruby模板注入](https://www.anquanke.com/post/id/86867)
+
+https://portswigger.net/blog/server-side-template-injection
+
 # 文件上传
 
 [文件上传总结](https://www.xmsec.cc/file-upload/#user.ini-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)
@@ -77,10 +81,34 @@ ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar
 
 [php反序列化漏洞总结](http://www.91ri.org/15925.html)
 
+[Phar与Stream Wrapper造成PHP RCE的深入挖掘](https://blog.zsxsoft.com/post/38)
+
 # 代码审计
 [PHP-Audit-Labs](https://github.com/hongriSec/PHP-Audit-Labs)
+
 [Web-Security-Attack](https://github.com/hongriSec/Web-Security-Attack)
+
+[PHP escapeshellarg()+escapeshellcmd() 之殇](https://paper.seebug.org/164/#0-tsina-1-56231-397232819ff9a47a7b7e80a40613cfe1)
+
+[Fastcgi协议分析 && PHP-FPM未授权访问漏洞 && Exp编写](https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html)
+
+[从Chrome源码看JavaScript的执行](https://xz.aliyun.com/t/2480)
+
+[laravelv5.7反序列化rce(CVE-2019-9081)](https://laworigin.github.io/2019/02/21/laravelv5-7反序列化rce/)
+
+[WebLogic安全研究报告](https://paper.seebug.org/1012/)
 
 # 缓存投毒
 [黑帽大会翻译文章第一部分](https://www.anquanke.com/post/id/156356)
 [黑帽大会翻译文章第二部分](https://www.anquanke.com/post/id/156551)
+
+# 奇技淫巧
+[不用数字字母写shell](https://xz.aliyun.com/t/5677)
+
+[DNS rebinding](http://www.bendawang.site/2017/05/31/%E5%85%B3%E4%BA%8EDNS-rebinding%E7%9A%84%E6%80%BB%E7%BB%93/)
+
+[内网渗透代理](https://xz.aliyun.com/t/228)
+
+[php复杂变量](https://xz.aliyun.com/t/4785)
+
+[php反射](https://museljh.github.io/2019/04/24/ctf中的php反射/)
