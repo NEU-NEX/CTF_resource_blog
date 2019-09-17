@@ -3,6 +3,7 @@
 - [sky's blog](https://skysec.top/)
 - [smile 's blog](https://www.smi1e.top/)
 - [LoRexxar 's blog](https://lorexxar.cn/)
+- [evoA's blog](https://evoa.me)
 - [xuanxuanblingbling 's blog](https://xuanxuanblingbling.github.io/)
 - [先知社区](https://xz.aliyun.com/)
 - [知道创宇](https://blog.knownsec.com/)
