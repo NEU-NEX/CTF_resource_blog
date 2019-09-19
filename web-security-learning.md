@@ -30,6 +30,7 @@
   - xman_2019_first_parse_final--profile
 - 奇技淫巧
   - [updatexml injection without concat](https://xz.aliyun.com/t/2160)
+  - [括号被过滤 order by 注入](https://www.cnblogs.com/deen-/p/7008939.html)
 
 - sqlmap usage
   - [SQLMap使用](https://joner11234.github.io/2019/04/08/SQLMap%E4%BD%BF%E7%94%A8/)
