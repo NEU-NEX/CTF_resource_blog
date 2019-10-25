@@ -116,3 +116,5 @@ ps: 除了这篇文章中列出的方法之外, finfo_file也是可以触发phar
 [php反射](https://museljh.github.io/2019/04/24/ctf中的php反射/)
 
 [php无参数RCE](https://xz.aliyun.com/t/6316)
+
+[php请求字符串解析造成的waf绕过](https://www.secjuice.com/abusing-php-query-string-parser-bypass-ids-ips-waf/)
