@@ -8,6 +8,7 @@
 - [先知社区](https://xz.aliyun.com/)
 - [知道创宇](https://blog.knownsec.com/)
 - [phithon 的公开漏洞](https://bugs.leavesongs.com/)
+- [Hu3sky](http://adm1n.design/)
 
 ## 工具
 - [postman](https://learning.getpostman.com/docs/postman/sending_api_requests/generate_code_snippets/)
